@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 3794696c9d2b04ce196e492f81c75b32
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: 4531104a-87b5-4f1b-ba65-eda639879900
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: lab-unity-pong
   organizationId: unity_b6ad9c10048076cc841f
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
