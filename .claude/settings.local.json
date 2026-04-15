@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh issue:*)",
+      "Bash(echo \"EXIT:$?\")",
+      "Read(//Applications/Unity/Hub/Editor/**)",
+      "Read(//Applications/Unity/**)",
+      "Bash(/Applications/Unity/Hub/Editor/6000.4.0f1/Unity.app/Contents/MacOS/Unity -runTests -batchmode -projectPath /Users/polochon/Development/LiftIA/lab-unity-pong -testResults /tmp/test-results.xml -testPlatform EditMode -logFile /tmp/unity-test.log)",
+      "Bash(echo \"EXIT_CODE=$?\")",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh pr:*)",
+      "Bash(/Applications/Unity/Hub/Editor/6000.4.0f1/Unity.app/Contents/MacOS/Unity -runTests -batchmode -projectPath /Users/polochon/Development/LiftIA/lab-unity-pong -testResults /tmp/test-results.xml -testPlatform EditMode)",
+      "WebSearch",
+      "WebFetch(domain:docs.unity3d.com)",
+      "Bash(/Applications/Unity/Hub/Editor/2022.3.*/Unity.app/Contents/MacOS/Unity -batchmode -nographics -projectPath /Users/polochon/Development/LiftIA/lab-unity-pong -runTests -testPlatform EditMode -testResults /tmp/unity-test-results.xml -logFile /tmp/unity-test.log)",
+      "Bash(/Applications/Unity/Hub/Editor/6000.4.0f1/Unity.app/Contents/MacOS/Unity -batchmode -nographics -projectPath /Users/polochon/Development/LiftIA/lab-unity-pong -runTests -testPlatform EditMode -testResults /tmp/unity-test-results.xml -logFile /tmp/unity-test.log)",
+      "Read(//private/tmp/**)"
+    ]
+  }
+}
